@@ -1,0 +1,6 @@
+{
+    "products":[
+        {"name":"iphone 10","price":76000,"brand":"Apple"},
+        {"name":"iphone 11","price":67000,"brand":"Apple"}
+    ]
+}
